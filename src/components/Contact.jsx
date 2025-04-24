@@ -44,12 +44,12 @@ const Contact = () => {
                 href="mailto:vk3266748@gmail.com"
                 className="hover:text-green-400 transition-colors"
               >
-                vk3266748@gmail.com
+                subratamondal@gmail.com
               </a>
             </div>
             <div className="mb-4 hover:translate-x-2 transition-transform">
               <FaPhone className="inline-block text-green-400 mr-2" />
-              <span>8881795602</span>
+              <span>6296628767</span>
             </div>
             <div className="mb-4 hover:translate-x-2 transition-transform">
               <FaMapMarkedAlt className="inline-block text-green-400 mr-2" />
