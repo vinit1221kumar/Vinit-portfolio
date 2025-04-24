@@ -41,7 +41,7 @@ const Hero = () => {
           Hello , I'm{" "}
           <TypeAnimation
             sequence={[
-              "Vinit Kumar Singh",
+              "Subrata Mondal",
               2000,
               "",
               500,
