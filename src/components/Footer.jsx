@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row md:space-x-12 items-center mb-3">
           <div className="flex-1 mb-4 md:mb-0 backdrop-blur-sm bg-white/5 p-6 rounded-xl">
             <h3 className="text-2xl font-bold mb-2 bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
-              Vinit Kumar Singh
+              Subrata Mondal
             </h3>
             <p className="text-gray-400">
               Creative Full-Stack Developer from India, crafting modern web and
@@ -46,7 +46,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-600 pt-3 flex flex-col md:flex-row justify-between items-center backdrop-blur-sm bg-white/5 p-4 rounded-xl mt-3">
           <p className="text-gray-400">
-            &copy; {new Date().getFullYear()} Vinit. All rights reserved.
+            &copy; {new Date().getFullYear()} Subrata. All rights reserved.
           </p>
           <div className="flex space-x-6 my-4 md:my-0">
             <a
