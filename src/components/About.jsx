@@ -63,7 +63,7 @@ const About = () => {
             <p className="text-gray-200 text-[1.05rem] leading-relaxed mb-4">
               Hey! I'm{" "}
               <span className="font-semibold text-gradient bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                Vinit Kumar Singh
+                Subrata Mondal
               </span>
               , a passionate full-stack developer focused on building responsive
               and visually appealing applications.
